@@ -6,6 +6,10 @@
   </a>
 </p>
 
+
+
+![duck hunt screenshot](https://github.com/SJellen/MovieLoveSample/blob/master/movieQuote.png)
+
 > A code sample of my twitter bot MovieLove
 
 ### ✨ [Demo](https://twitter.com/DieHard96347392)
